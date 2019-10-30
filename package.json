@@ -2,7 +2,7 @@
   "name": "react-first",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kadirumac.github.io/Mern-Stack/react",
+  "homepage": "https://kadirumac.github.io/Mern-Stack",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "bootstrap-social": "^5.1.1",
